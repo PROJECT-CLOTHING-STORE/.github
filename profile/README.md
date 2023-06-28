@@ -4,7 +4,8 @@ This personal project includes all kind of knowledge that Steven already achieve
 
 ## Project Description **📃**
 This personal project is using Nest.Js as the backend programming framework and Next.Js as the frontend programming framework.<br>
-All of the projects are deployed at railway because of the service is mostly free **💸**.<br>
+The database that is used to provide this project is PostgreSQL.
+All of the services for this project are deployed at railway because of the service is mostly free **💸**.<br>
 For the authentication, Steven is only using credentials such as username and password.<br>
 
 ## Website URL **🔗**
