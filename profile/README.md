@@ -1,5 +1,5 @@
 ## Hi there 👋
-This is a personal project that all created by, Steven Yosua Saputra at his second year as a computer science student.<br>
+This is a personal project that all created by Steven Yosua Saputra at his second year as a computer science student.<br>
 This personal project includes all kind of knowledge that Steven already achieved at his second year.<br>
 
 ## Project Description **📃**
