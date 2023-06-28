@@ -13,7 +13,7 @@ Frontend Web: https://clothing-repository-frontend-production.up.railway.app/<br
 
 ## Fun facts **🍿**
 This personal project is the first most established personal project that Steven has worked in. Since, the first project that<br>
-Steven want to build is fish auction place and it was to difficult **😭**.<br>
+Steven wants to build is fish auction place and it was to difficult **😭**.<br>
 
 <!--
 
